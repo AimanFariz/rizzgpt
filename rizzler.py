@@ -1,7 +1,7 @@
 import openai
 import gradio
 
-openai.api_key = "inser-your-api-key-here-lol"
+openai.api_key = "insert-your-api-key-here-lol"
 
 messages = [{"role": "system", "content": "You are a love experts that specializes in talking to women and flirting"}]
 
